@@ -9,16 +9,3 @@ section > div        { padding: 20px; }
 header, nav, section { background: #eee; text-align: center;}
 footer               { background: #eee; text-align: center;}
 nav span             { margin: 0px 10px 0px 0px;}
-#ErrorMsgs			 { color: #f61; font-size: smaller;}
-.capitalize 		 { text-transform: capitalize;}
-
-a 					 { text-decoration: none; color: #2B00FF;}
-a:hover				 { color: #0F063D;}
-.right 				 { 	float: right;
-						padding: 5px 8px;
-						background: rgba(0, 0, 0, 0.05) none repeat scroll 0% 0%;
-						border-radius: 3px;
-					}
-.right:hover 		{  color: #0F063D;
-					   background-color: #6886A2;
-					}
